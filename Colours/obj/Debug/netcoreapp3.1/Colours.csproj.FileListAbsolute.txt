@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\titpe21\Horoscope\Colours\bin\Debug\netcoreapp3.1\Colours.exe
+C:\Users\opilane\source\repos\titpe21\Horoscope\Colours\bin\Debug\netcoreapp3.1\Colours.deps.json
+C:\Users\opilane\source\repos\titpe21\Horoscope\Colours\bin\Debug\netcoreapp3.1\Colours.runtimeconfig.json
+C:\Users\opilane\source\repos\titpe21\Horoscope\Colours\bin\Debug\netcoreapp3.1\Colours.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\titpe21\Horoscope\Colours\bin\Debug\netcoreapp3.1\Colours.dll
+C:\Users\opilane\source\repos\titpe21\Horoscope\Colours\bin\Debug\netcoreapp3.1\Colours.pdb
+C:\Users\opilane\source\repos\titpe21\Horoscope\Colours\obj\Debug\netcoreapp3.1\Colours.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\titpe21\Horoscope\Colours\obj\Debug\netcoreapp3.1\Colours.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\titpe21\Horoscope\Colours\obj\Debug\netcoreapp3.1\Colours.AssemblyInfo.cs
+C:\Users\opilane\source\repos\titpe21\Horoscope\Colours\obj\Debug\netcoreapp3.1\Colours.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\titpe21\Horoscope\Colours\obj\Debug\netcoreapp3.1\Colours.dll
+C:\Users\opilane\source\repos\titpe21\Horoscope\Colours\obj\Debug\netcoreapp3.1\Colours.pdb
+C:\Users\opilane\source\repos\titpe21\Horoscope\Colours\obj\Debug\netcoreapp3.1\Colours.genruntimeconfig.cache
